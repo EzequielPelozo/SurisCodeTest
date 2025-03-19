@@ -23,14 +23,25 @@ builder.Services.AddScoped<IReservationRepository, ReservationRepository>();
 // Agregamos el automapper
 builder.Services.AddAutoMapper(typeof(SurisCodeMapper));
 
-var app = builder.Build();
+// Soporte para CORS
+// Se pueden habilitar: 1-Un dominio, 2-multiples dominios, 3-cualquier dominio (Tener en cuenta Seguridad)
+// Usamos de ejemplo dominio: http://localhost:5173, se debe cambiar por el correcto
+// se usa (*) para todos los dominios.
+builder.Services.AddCors(p => p.AddPolicy("PolicyCors", build =>
+{
+    build.WithOrigins("http://localhost:5173").AllowAnyMethod().AllowAnyHeader();
+}));
 
+var app = builder.Build();
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+// Soporte para CORS
+app.UseCors("PolicyCors");
 
 app.UseHttpsRedirection();
 

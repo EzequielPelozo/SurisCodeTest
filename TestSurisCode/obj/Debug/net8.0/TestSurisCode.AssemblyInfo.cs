@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestSurisCode")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6739ab7a6f4c78041e1dd604985697658c3cfb75")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestSurisCode")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestSurisCode")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,32 +3,40 @@
   "WorkspaceRootPath": "D:\\Proyectos\\Test Suris Code\\TestSurisCode\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{52455AF7-353E-469C-9717-93B34C23EC16}|TestSurisCode\\TestSurisCode.csproj|d:\\proyectos\\test suris code\\testsuriscode\\testsuriscode\\repository\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52455AF7-353E-469C-9717-93B34C23EC16}|TestSurisCode\\TestSurisCode.csproj|solutionrelative:testsuriscode\\repository\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{52455AF7-353E-469C-9717-93B34C23EC16}|TestSurisCode\\TestSurisCode.csproj|d:\\proyectos\\test suris code\\testsuriscode\\testsuriscode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52455AF7-353E-469C-9717-93B34C23EC16}|TestSurisCode\\TestSurisCode.csproj|solutionrelative:testsuriscode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{52455AF7-353E-469C-9717-93B34C23EC16}|TestSurisCode\\TestSurisCode.csproj|d:\\proyectos\\test suris code\\testsuriscode\\testsuriscode\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52455AF7-353E-469C-9717-93B34C23EC16}|TestSurisCode\\TestSurisCode.csproj|solutionrelative:testsuriscode\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52455AF7-353E-469C-9717-93B34C23EC16}|TestSurisCode\\TestSurisCode.csproj|d:\\proyectos\\test suris code\\testsuriscode\\testsuriscode\\repository\\irepository\\ireservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52455AF7-353E-469C-9717-93B34C23EC16}|TestSurisCode\\TestSurisCode.csproj|solutionrelative:testsuriscode\\repository\\irepository\\ireservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52455AF7-353E-469C-9717-93B34C23EC16}|TestSurisCode\\TestSurisCode.csproj|d:\\proyectos\\test suris code\\testsuriscode\\testsuriscode\\suriscodemapper\\suriscodemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52455AF7-353E-469C-9717-93B34C23EC16}|TestSurisCode\\TestSurisCode.csproj|solutionrelative:testsuriscode\\suriscodemapper\\suriscodemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{52455AF7-353E-469C-9717-93B34C23EC16}|TestSurisCode\\TestSurisCode.csproj|d:\\proyectos\\test suris code\\testsuriscode\\testsuriscode\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{52455AF7-353E-469C-9717-93B34C23EC16}|TestSurisCode\\TestSurisCode.csproj|solutionrelative:testsuriscode\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{52455AF7-353E-469C-9717-93B34C23EC16}|TestSurisCode\\TestSurisCode.csproj|d:\\proyectos\\test suris code\\testsuriscode\\testsuriscode\\models\\dtos\\createreservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52455AF7-353E-469C-9717-93B34C23EC16}|TestSurisCode\\TestSurisCode.csproj|solutionrelative:testsuriscode\\models\\dtos\\createreservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52455AF7-353E-469C-9717-93B34C23EC16}|TestSurisCode\\TestSurisCode.csproj|d:\\proyectos\\test suris code\\testsuriscode\\testsuriscode\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52455AF7-353E-469C-9717-93B34C23EC16}|TestSurisCode\\TestSurisCode.csproj|solutionrelative:testsuriscode\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{52455AF7-353E-469C-9717-93B34C23EC16}|TestSurisCode\\TestSurisCode.csproj|d:\\proyectos\\test suris code\\testsuriscode\\testsuriscode\\repository\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52455AF7-353E-469C-9717-93B34C23EC16}|TestSurisCode\\TestSurisCode.csproj|solutionrelative:testsuriscode\\repository\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52455AF7-353E-469C-9717-93B34C23EC16}|TestSurisCode\\TestSurisCode.csproj|d:\\proyectos\\test suris code\\testsuriscode\\testsuriscode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52455AF7-353E-469C-9717-93B34C23EC16}|TestSurisCode\\TestSurisCode.csproj|solutionrelative:testsuriscode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{52455AF7-353E-469C-9717-93B34C23EC16}|TestSurisCode\\TestSurisCode.csproj|d:\\proyectos\\test suris code\\testsuriscode\\testsuriscode\\repository\\irepository\\ireservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52455AF7-353E-469C-9717-93B34C23EC16}|TestSurisCode\\TestSurisCode.csproj|solutionrelative:testsuriscode\\repository\\irepository\\ireservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52455AF7-353E-469C-9717-93B34C23EC16}|TestSurisCode\\TestSurisCode.csproj|d:\\proyectos\\test suris code\\testsuriscode\\testsuriscode\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52455AF7-353E-469C-9717-93B34C23EC16}|TestSurisCode\\TestSurisCode.csproj|solutionrelative:testsuriscode\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52455AF7-353E-469C-9717-93B34C23EC16}|TestSurisCode\\TestSurisCode.csproj|d:\\proyectos\\test suris code\\testsuriscode\\testsuriscode\\suriscodemapper\\suriscodemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52455AF7-353E-469C-9717-93B34C23EC16}|TestSurisCode\\TestSurisCode.csproj|solutionrelative:testsuriscode\\suriscodemapper\\suriscodemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52455AF7-353E-469C-9717-93B34C23EC16}|TestSurisCode\\TestSurisCode.csproj|d:\\proyectos\\test suris code\\testsuriscode\\testsuriscode\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52455AF7-353E-469C-9717-93B34C23EC16}|TestSurisCode\\TestSurisCode.csproj|solutionrelative:testsuriscode\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{52455AF7-353E-469C-9717-93B34C23EC16}|TestSurisCode\\TestSurisCode.csproj|d:\\proyectos\\test suris code\\testsuriscode\\testsuriscode\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,11 +50,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Proyectos\\Test Suris Code\\TestSurisCode\\TestSurisCode\\appsettings.json",
+              "RelativeDocumentMoniker": "TestSurisCode\\appsettings.json",
+              "ToolTip": "D:\\Proyectos\\Test Suris Code\\TestSurisCode\\TestSurisCode\\appsettings.json",
+              "RelativeToolTip": "TestSurisCode\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-19T02:00:22.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\Proyectos\\Test Suris Code\\TestSurisCode\\TestSurisCode\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "TestSurisCode\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\Proyectos\\Test Suris Code\\TestSurisCode\\TestSurisCode\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "TestSurisCode\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T22:40:36.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "SurisCodeMapper.cs",
               "DocumentMoniker": "D:\\Proyectos\\Test Suris Code\\TestSurisCode\\TestSurisCode\\SurisCodeMapper\\SurisCodeMapper.cs",
               "RelativeDocumentMoniker": "TestSurisCode\\SurisCodeMapper\\SurisCodeMapper.cs",
@@ -54,12 +88,11 @@
               "RelativeToolTip": "TestSurisCode\\SurisCodeMapper\\SurisCodeMapper.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T00:32:31.402Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T00:32:31.402Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Reservation.cs",
               "DocumentMoniker": "D:\\Proyectos\\Test Suris Code\\TestSurisCode\\TestSurisCode\\Models\\Reservation.cs",
               "RelativeDocumentMoniker": "TestSurisCode\\Models\\Reservation.cs",
@@ -67,44 +100,43 @@
               "RelativeToolTip": "TestSurisCode\\Models\\Reservation.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T23:50:58.164Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T23:50:58.164Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "CreateReservationDto.cs",
               "DocumentMoniker": "D:\\Proyectos\\Test Suris Code\\TestSurisCode\\TestSurisCode\\Models\\Dtos\\CreateReservationDto.cs",
               "RelativeDocumentMoniker": "TestSurisCode\\Models\\Dtos\\CreateReservationDto.cs",
               "ToolTip": "D:\\Proyectos\\Test Suris Code\\TestSurisCode\\TestSurisCode\\Models\\Dtos\\CreateReservationDto.cs",
               "RelativeToolTip": "TestSurisCode\\Models\\Dtos\\CreateReservationDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-17T23:27:59.904Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "IReservationRepository.cs",
               "DocumentMoniker": "D:\\Proyectos\\Test Suris Code\\TestSurisCode\\TestSurisCode\\Repository\\IRepository\\IReservationRepository.cs",
               "RelativeDocumentMoniker": "TestSurisCode\\Repository\\IRepository\\IReservationRepository.cs",
               "ToolTip": "D:\\Proyectos\\Test Suris Code\\TestSurisCode\\TestSurisCode\\Repository\\IRepository\\IReservationRepository.cs",
               "RelativeToolTip": "TestSurisCode\\Repository\\IRepository\\IReservationRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAmAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-17T23:22:16.837Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "ReservationRepository.cs",
               "DocumentMoniker": "D:\\Proyectos\\Test Suris Code\\TestSurisCode\\TestSurisCode\\Repository\\ReservationRepository.cs",
               "RelativeDocumentMoniker": "TestSurisCode\\Repository\\ReservationRepository.cs",
               "ToolTip": "D:\\Proyectos\\Test Suris Code\\TestSurisCode\\TestSurisCode\\Repository\\ReservationRepository.cs",
               "RelativeToolTip": "TestSurisCode\\Repository\\ReservationRepository.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAowBsAAAAAAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAnwBwAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-17T23:08:46.59Z",
               "EditorCaption": ""
@@ -117,27 +149,27 @@
               "RelativeDocumentMoniker": "TestSurisCode\\Controllers\\ReservationController.cs",
               "ToolTip": "D:\\Proyectos\\Test Suris Code\\TestSurisCode\\TestSurisCode\\Controllers\\ReservationController.cs",
               "RelativeToolTip": "TestSurisCode\\Controllers\\ReservationController.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAEwEEAAAAIAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowC0AAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-17T23:03:44.923Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Proyectos\\Test Suris Code\\TestSurisCode\\TestSurisCode\\Program.cs",
               "RelativeDocumentMoniker": "TestSurisCode\\Program.cs",
               "ToolTip": "D:\\Proyectos\\Test Suris Code\\TestSurisCode\\TestSurisCode\\Program.cs",
               "RelativeToolTip": "TestSurisCode\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-17T21:41:29.348Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\Proyectos\\Test Suris Code\\TestSurisCode\\TestSurisCode\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "TestSurisCode\\Data\\ApplicationDbContext.cs",
@@ -145,8 +177,7 @@
               "RelativeToolTip": "TestSurisCode\\Data\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T22:11:58.496Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T22:11:58.496Z"
             }
           ]
         }
